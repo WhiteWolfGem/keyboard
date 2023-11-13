@@ -230,7 +230,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "TG(6)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -242,7 +242,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "TG(8)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -399,7 +399,7 @@
       "KC_SPC",
       "KC_G",
       "KC_NO",
-      "KC_NO",
+      "TG(0)",
       "KC_NO"
     ]
   ],
